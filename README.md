@@ -5,7 +5,12 @@
 💻 CS degree🎓<br>
 📫 How to reach me elasdn273@gmail.com
 
-![GitHub Snake Animation](https://elahesadeghnezhadian.github.io/snk/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ElaheSadeghnezhadian.github.io/snk/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://ElaheSadeghnezhadian.github.io/snk/snake.svg">
+  <img alt="GitHub Snake Animation" src="https://ElaheSadeghnezhadian.github.io/snk/snake.svg">
+</picture>
+
 
 <!--
 **ElaheSadeghnezhadian/ElaheSadeghnezhadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
