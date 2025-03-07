@@ -1,4 +1,11 @@
 ## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m ela 👀<br>
+🌱currently learning<br>
+💻 CS degree🎓<br>
+📫 How to reach me elasdn273@gmail.com
+
+![Snake animation](https://github.com/elahesadeghnezhad/elahesadeghnezhad/blob/main/dist/snake.svg)
 
 <!--
 **ElaheSadeghnezhadian/ElaheSadeghnezhadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
