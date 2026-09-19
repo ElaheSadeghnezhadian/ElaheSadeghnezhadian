@@ -6,9 +6,9 @@
 📫 How to reach me elasdn273@gmail.com
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ElaheSadeghnezhadian.github.io/snk/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://ElaheSadeghnezhadian.github.io/snk/snake.svg">
-  <img alt="GitHub Snake Animation" src="https://ElaheSadeghnezhadian.github.io/snk/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElaheSadeghnezhadian/snk/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElaheSadeghnezhadian/snk/output/snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ElaheSadeghnezhadian/snk/output/snake.svg">
 </picture>
 
 
